@@ -13,8 +13,9 @@
 <body>
     <h1>Welcome!</h1>
     <p>Click the link below to visit WhatsApp Plus:</p>
-    <a href="http://whatplusapp.com/" target="_blank" rel="noopener noreferrer">
+    <a href="http://waplusapps.com/" target="_blank" rel="noopener noreferrer">
         Visit WhatsApp Plus
     </a>
 </body>
 </html>
+
